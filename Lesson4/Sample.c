@@ -4,7 +4,7 @@
 
 // Логический тип (стандарт C99)
 
-void main() {
+void main(void) {
 	SetConsoleOutputCP(CP_UTF8);
 	SetConsoleCP(CP_UTF8);
 

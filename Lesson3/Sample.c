@@ -3,7 +3,7 @@
 
 // Вещественные числа
 
-void main() {
+void main(void) {
 	// Назначаем кодировку UTF8 для ввода и вывода кирилицы (подключаем Windows.h)
 	SetConsoleOutputCP(CP_UTF8);
 	SetConsoleCP(CP_UTF8);
